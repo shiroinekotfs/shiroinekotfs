@@ -1,6 +1,7 @@
-![personal-cover](https://github.com/shiroinekotfs/shiroinekotfs/assets/115929530/cb4df8b0-1d54-4456-a554-c1c0362a8cf8)
+![personal-cover](https://github.com/shiroinekotfs/shiroinekotfs/assets/115929530/a5591fb7-23f0-4d00-8b38-26c40f7f2ef6)
 
 ## Some intro about me
+
 
 ```markdown
 I just want to be a cat. No study, no work, just meow~ 
