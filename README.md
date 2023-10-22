@@ -185,18 +185,18 @@ I just want to be a cat. No study, no work, just meow~
 ### Contact me
 
 <p align="left">
-<img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-<img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=pypi&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=osu&logoColor=white" />
+<a href="https://www.facebook.com/shiroinekotfs/" target="_blank"><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="mailto:shiroineko.tfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/shiroinekotfs/" target="_blank"><img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shiroinekotfs/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/shiroinekotfs" target="_blank"><img src="https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/@shiroinekotfs" target="_blank"><img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://pypi.org/user/shiroinekotfs/" target="_blank" ><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+<a href="https://github.com/shiroinekotfs" target="_blank" ><img src="https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://osu.ppy.sh/users/34665349" target="" ><img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=osu&logoColor=white" /></a>
 <br>
-<img src="https://img.shields.io/badge/Docker Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/@shiroinekotfs-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://hub.docker.com/u/shiroinekotfs" target="_blank" ><img src="https://img.shields.io/badge/Docker Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="" target="_blank" ><img src="https://img.shields.io/badge/@shiroinekotfs-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ### Check out my learning curve
