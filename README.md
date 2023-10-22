@@ -116,8 +116,6 @@ I just want to be a cat. No study, no work, just meow~
 <a><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Command Prompt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>
-<a><img src="" /></a>
-<a><img src="" /></a>
 </details>
 
 <br>
