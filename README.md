@@ -202,7 +202,7 @@ I just want to be a cat. No study, no work, just meow~
 ### Check out my learning curve
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Learn/shiroinekotfs-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
+<a href="https://learn.microsoft.com/en-us/users/shiroinekotfs/" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Learn/shiroinekotfs-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </p>
 
 ---
