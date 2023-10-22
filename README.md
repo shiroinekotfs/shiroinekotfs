@@ -192,6 +192,7 @@ I just want to be a cat. No study, no work, just meow~
 <img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 <img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=pypi&logoColor=white" />
 <img src="https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=osu&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Docker Hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/@shiroinekotfs-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
