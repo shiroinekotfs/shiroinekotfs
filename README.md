@@ -13,8 +13,11 @@ I just want to be a cat. No study, no work, just meow~
 
 ## My career
 
-### Hightlights
+<br>
 
+<details>
+    <summary><b>Highlights</b></summary>
+    <br>
 <details>
   <summary>Browser</summary>
   <br>
@@ -166,6 +169,8 @@ I just want to be a cat. No study, no work, just meow~
     <summary>Quantum Computing Libraries</summary>
     <br>
 <a><img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" /></a>
+</details>
+
 </details>
 
 ### Statistics
