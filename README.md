@@ -1,5 +1,3 @@
-![personal-cover](https://github.com/shiroinekotfs/shiroinekotfs/assets/115929530/a5591fb7-23f0-4d00-8b38-26c40f7f2ef6)
-
 ## Some intro about me
 
 
