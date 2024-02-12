@@ -173,7 +173,7 @@ I just want to be a cat. No study, no work, just meow~
 ### Statistics
 
 <p align="center">
-<img align="center" width="1000" height="auto" src="https://github-readme-stats.vercel.app/api?username=shiroinekotfs&show_icons=true&theme=default" />
+<img align="center" width="1000" height="auto" src="https://github-readme-stats.vercel.app/api?username=shiroinekotfs&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </p>
 
 ---
