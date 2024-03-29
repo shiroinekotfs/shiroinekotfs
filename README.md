@@ -1,6 +1,6 @@
-## Some intro about me
+[![Banner Image](https://github.com/shiroinekotfs/shiroinekotfs/blob/master/shiroinekotfs_banner.png?raw=true)](https://learn.microsoft.com/api/achievements/share/en-us/tfsofficial/DSWVCGNJ?sharingId=583D4608132C71F8)
 
-[![Banner Image](https://github.com/shiroinekotfs/shiroinekotfs/blob/master/%E3%81%AD%E3%81%93%20%E7%99%BD%E3%81%84.png?raw=true)](https://learn.microsoft.com/api/achievements/share/en-us/tfsofficial/DSWVCGNJ?sharingId=583D4608132C71F8)
+## H-Hello, I..I am Shiroi Neko - a..a white cat >.<
 
 * 🙌 I'm always happy to hear different viewpoints, so feel free to share your thoughts in a friendly and constructive way.
 * ✨ My education level is only high school so I'm not good at most of the things I'm doing.
